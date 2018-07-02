@@ -32,12 +32,12 @@ Caja de municion: Te aumentara la municion de tu escopeta y rifle.
 
 ### Proyecto en Greenfoot
 
-[SnowManGame](http://www.greenfoot.org/scenarios/21831).
+[SnowManGame](http://www.greenfoot.org/scenarios/21834).
 
 ### Video Demostración.
 
 [Link](https://youtu.be/KD1nsgxxA3A)
 
 ### Autor:
-Luis Rodrigo Gomez Martinez.
+[Luis Rodrigo Gomez Martinez.](https://github.com/lrgm44)
 
