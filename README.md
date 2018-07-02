@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## SnowMan
 
-You can use the [editor on GitHub](https://github.com/objetos-inter2018/Snowman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SnowMan desea prepararse una mermelada para su desayuno, pero al buscar en su alacena no encuentra ninguna fruta que pueda utilizar.  
+Aqui comienza nuestra aventura ayudando a SnowMan a recolectar todas las frutas que encuentre para poder preparar su desayuno.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![Alt Text](https://vignette.wikia.nocookie.net/es.megaman/images/f/ff/Mm7freezeman.jpg/revision/latest?cb=20120423013908)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Objetivo:
 
-# Header 1
-## Header 2
-### Header 3
+Recorre todo el nivel mientras recolectas todas las frutas que encuentres.  
+Evita a los enemigos o destruyelos para avanzar mas facil.
 
-- Bulleted
-- List
+### Enemigos:
+![Alt Text](https://vignette.wikia.nocookie.net/es.megaman/images/e/e2/Mhx_vile.png/revision/latest?cb=20120525034252)
 
-1. Numbered
-2. List
+Descripcion: Es capaz de disparar misiles que obtienen tu posicion.
 
-**Bold** and _Italic_ and `Code` text
+![Alt Text](https://vignette.wikia.nocookie.net/megaman/images/4/4b/Mm7_gamerizer.png/revision/latest?cb=20120813143151)
 
-[Link](url) and ![Image](src)
-```
+Descripcion: Tortuga gigante se mueve de un lugar a otro. Si te toca toca te restara vida.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Alt Text](https://vignette.wikia.nocookie.net/es.megaman/images/5/56/Mm7gutsman.jpg/revision/latest?cb=20120529014704)
 
-### Jekyll Themes
+Descripcion: Se mueve en un rango definido, pero si te acercas es capaz de seguirte.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/objetos-inter2018/Snowman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Bonus:
+Corazon: Te aumentara una vida.  
+Salud: Te aumentara 20 puntos de salud.  
+Caja de municion: Te aumentara la municion de tu escopeta y rifle.  
 
-### Support or Contact
+### Proyecto en Greenfoot
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[SnowManGame](http://www.greenfoot.org/scenarios/21831).
+
+### Video Demostración.
+
+[Link](https://youtu.be/KD1nsgxxA3A)
+
+### Autor:
+Luis Rodrigo Gomez Martinez.
+
